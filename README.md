@@ -1,5 +1,5 @@
 ## Check out my application on SMS Spam Detection
-https://sms-spam-detection-pfr0xnyizaf.streamlit.app/
+[Link](https://sms-spam-message.streamlit.app/)
 
 # SMS Spam Detection
 
@@ -59,4 +59,4 @@ The trained model achieved an **accuracy of 97.10 %** and **Precision is 100 %**
 
 ## Contact
 
-If you have any questions or suggestions regarding the project, feel free to contact **Kishan Patel** at **kishanpatel9063@gmail.com**.
+If you have any questions or suggestions regarding the project, feel free to contact **Saikishor Rasala** at **rasalasaikishor@gmail.com**.
